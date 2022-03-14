@@ -1,0 +1,16 @@
+C:\Users\eg1001\Desktop\.net\Day15\Binary Search Tree\BTSUC3\BTSUC3\bin\Debug\net5.0\BTSUC3.exe
+C:\Users\eg1001\Desktop\.net\Day15\Binary Search Tree\BTSUC3\BTSUC3\bin\Debug\net5.0\BTSUC3.deps.json
+C:\Users\eg1001\Desktop\.net\Day15\Binary Search Tree\BTSUC3\BTSUC3\bin\Debug\net5.0\BTSUC3.runtimeconfig.json
+C:\Users\eg1001\Desktop\.net\Day15\Binary Search Tree\BTSUC3\BTSUC3\bin\Debug\net5.0\BTSUC3.runtimeconfig.dev.json
+C:\Users\eg1001\Desktop\.net\Day15\Binary Search Tree\BTSUC3\BTSUC3\bin\Debug\net5.0\BTSUC3.dll
+C:\Users\eg1001\Desktop\.net\Day15\Binary Search Tree\BTSUC3\BTSUC3\bin\Debug\net5.0\BTSUC3.pdb
+C:\Users\eg1001\Desktop\.net\Day15\Binary Search Tree\BTSUC3\BTSUC3\obj\Debug\net5.0\BTSUC3.csproj.AssemblyReference.cache
+C:\Users\eg1001\Desktop\.net\Day15\Binary Search Tree\BTSUC3\BTSUC3\obj\Debug\net5.0\BTSUC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eg1001\Desktop\.net\Day15\Binary Search Tree\BTSUC3\BTSUC3\obj\Debug\net5.0\BTSUC3.AssemblyInfoInputs.cache
+C:\Users\eg1001\Desktop\.net\Day15\Binary Search Tree\BTSUC3\BTSUC3\obj\Debug\net5.0\BTSUC3.AssemblyInfo.cs
+C:\Users\eg1001\Desktop\.net\Day15\Binary Search Tree\BTSUC3\BTSUC3\obj\Debug\net5.0\BTSUC3.csproj.CoreCompileInputs.cache
+C:\Users\eg1001\Desktop\.net\Day15\Binary Search Tree\BTSUC3\BTSUC3\obj\Debug\net5.0\BTSUC3.dll
+C:\Users\eg1001\Desktop\.net\Day15\Binary Search Tree\BTSUC3\BTSUC3\obj\Debug\net5.0\refint\BTSUC3.dll
+C:\Users\eg1001\Desktop\.net\Day15\Binary Search Tree\BTSUC3\BTSUC3\obj\Debug\net5.0\BTSUC3.pdb
+C:\Users\eg1001\Desktop\.net\Day15\Binary Search Tree\BTSUC3\BTSUC3\obj\Debug\net5.0\BTSUC3.genruntimeconfig.cache
+C:\Users\eg1001\Desktop\.net\Day15\Binary Search Tree\BTSUC3\BTSUC3\obj\Debug\net5.0\ref\BTSUC3.dll

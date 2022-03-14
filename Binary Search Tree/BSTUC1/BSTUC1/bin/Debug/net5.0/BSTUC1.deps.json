@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BSTUC1/1.0.0": {
+        "runtime": {
+          "BSTUC1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BSTUC1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
